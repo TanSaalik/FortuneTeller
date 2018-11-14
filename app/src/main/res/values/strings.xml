@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Magic8Ball</string>
+    <string name="shk">Shake</string>
+    <string name="menu">Menu</string>
+    <string name="fst">Fortune teller</string>
+    <string name="magic">Magic fortune teller</string>
+    <string name="res">Spoken text will appear here!</string>
+    <string name="record">Record</string>
+    <string name="clr">Clear</string>
+
+
+    <string-array name="answers">
+        <item>Jah, kindlasti!</item>
+        <item>Jah, see on nii määratud.</item>
+        <item>Jah, kahtlemata.</item>
+        <item>Jah, muidugi!</item>
+        <item>Jah, võid selles kindel olla!</item>
+        <item>Mina näen küll, et jah.</item>
+        <item>Tõenäoliselt jah.</item>
+        <item>Sellel on head väljavaated.</item>
+        <item>Märgid näitavad, et jah.</item>
+        <item>Jah.</item>
+        <item>Vastus on hägune, proovi uuesti.</item>
+        <item>Proovi hiljem uuesti.</item>
+        <item>Ma parem ei ütle sulle praegu.</item>
+        <item>Ei saa praegu ennustada.</item>
+        <item>Keskendu rohkem ja küsi uuesti.</item>
+        <item>Ei, ära sellega arvesta.</item>
+        <item>Minu vastus on ei.</item>
+        <item>Mu allikad ütlevad ei.</item>
+        <item>Ei ole häid väljavaateid.</item>
+        <item>Kahtlen väga.</item>
+    </string-array>
+</resources>
